@@ -4,7 +4,7 @@
 
 数据以 CSV 、Excel 及 JSON 三种文件类型存储，**相应文件分别保存在 [Enterprise-Registration-Data/csv](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/csv)、[Enterprise-Registration-Data/xls](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/xls)、[Enterprise-Registration-Data/json](https://github.com/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/tree/json) 三个分支中**。
 
-其中 CSV 与 Excel 的格式为：企业名称、统一社会信用代码、注册日期、企业类型、法人代表、注册资金、经营范围、所在省份、地区、注册地址，编码为 UTF-8
+其中 CSV 与 Excel 的格式为：企业名称、统一社会信用代码、注册日期、企业类型、法人代表、注册资金、经营范围、所在省份、地区、注册地址，编码为 UTF-8，
 
 JSON 的编码为 UTF-8，文件格式如下：
 
@@ -23,7 +23,7 @@ JSON 的编码为 UTF-8，文件格式如下：
 }
 
 ```
-最新数据会不定期进行更新。
+前期大部分数据已经上传完毕，最新数据会视情况以半年一次的频率不定期进行更新，如果您在使用过程中发现数据存在编码等格式问题，请在 [issues](#28) 中进行反馈。 
 
 This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.
 
@@ -53,7 +53,7 @@ name,code,registrationDay,character,legalRepresentative,capital,businessScope,pr
 
 The encoding of all those files are UTF-8.
 
-This repository will be updated from time to time.Give me a star or fork this repository if you like it.
+Most of the data were uploaded,the latest data will be updated twice a year from time to time.If you find some encoding problems in this dataset please feedback in [issues](#28) . Give me a star or fork this repository if you like it.
 
 ### Citation format:
 
