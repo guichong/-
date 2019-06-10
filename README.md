@@ -23,7 +23,7 @@ JSON 的编码为 UTF-8，文件格式如下：
 }
 
 ```
-前期大部分数据已经上传完毕，最新数据会视情况以半年一次的频率不定期进行更新，如果您在使用过程中发现数据存在编码等格式问题，请在 [issues](#28) 中进行反馈。 
+前期大部分数据已经上传完毕，最新数据会视情况以半年一次的频率不定期进行更新，如果您在使用过程中发现数据存在编码等格式问题，请在 [issues](issues/28) 中进行反馈。 
 
 This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.
 
@@ -53,7 +53,7 @@ name,code,registrationDay,character,legalRepresentative,capital,businessScope,pr
 
 The encoding of all those files are UTF-8.
 
-Most of the data were uploaded,the latest data will be updated twice a year from time to time.If you find some encoding problems in this dataset please feedback in [issues](#28) . Give me a star or fork this repository if you like it.
+Most of the data were uploaded,the latest data will be updated twice a year from time to time.If you find some encoding problems in this dataset please feedback in [issues](issues/28) . Give me a star or fork this repository if you like it.
 
 ### Citation format:
 
